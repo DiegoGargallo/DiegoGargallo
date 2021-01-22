@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi [Diego Gargallo Tarín][website] here 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Diego_Gargallo?color=%231DA1F2&label=Diego%20Gargallo%20Tar%C3%ADn&logo=twitter&style=for-the-badge)][twitter]
 
 <!--
 **DiegoGargallo/DiegoGargallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://diegogargallotarin.es/
+[twitter]: https://diegogargallotarin.es/
